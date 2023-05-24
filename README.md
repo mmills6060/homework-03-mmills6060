@@ -4,7 +4,7 @@ Name: Michael Mills
 Github Account name: mmills6060
 
 Link to Assignment on Github: (copy and paste the link to your assignment repo here)
-
+https://github.com/mmills6060/homework-03-mmills6060
 How many hours did it take you to complete this assignment (estimate)? 
 3
 Did you collaborate with any other students/TAs/Professors? If so, tell us who and in what capacity.  
